@@ -8,4 +8,4 @@ i'm passionate about solving problems and lerning. Always open to new
 	                       🌎"Quanto mais eu sei, mais eu sou" 🧠
 living in SP-Capital
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gonçalves-b84152144/)]
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gonçalves-b84152144/)
