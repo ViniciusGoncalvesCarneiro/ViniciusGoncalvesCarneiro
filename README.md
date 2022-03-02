@@ -6,7 +6,7 @@ Sou técnico de informática formado pelo "Senai de tecnología " em 2021. Atual
 
 Um desenvolvedor de software que também é apaixonado por design de interface de usuário.
 
-### Technology 
+### Technologies
 
 <ul>
 	<li>iOS Development with Swift (UIKit and SwiftUI).</li>
