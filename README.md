@@ -10,6 +10,6 @@ Um desenvolvedor de software que também é apaixonado por design de interface d
 
 <ul>
 	<li>iOS Development with Swift (UIKit and SwiftUI).</li>
-	<li>Front-end Development with HTML, CSS, Javascript and Vuejs.</li>
+	<li>Front-end Development with HTML, CSS, Javascript and Angular.</li>
 	<li>User Interface Design.</li>
 </ul>
