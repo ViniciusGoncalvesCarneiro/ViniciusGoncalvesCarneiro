@@ -1,6 +1,6 @@
 ### About Me
 
-Oi!! Sou o Vinicius Gonçalves, 18 anos, atualmente morando no Brasil.
+Oi!! Sou o Vinicius Gonçalves, 18 anos.
 
 Sou técnico de informática formado pelo "Senai de tecnología " em 2021. Atualmente, estou fazendo graduação em Analise e Desenvolvimento de Sistema na Universidade Faculdade de Informática e Administração Paulista (FIAP) em São Paulo.
 
